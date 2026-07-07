@@ -1,0 +1,25 @@
+unit_id,institution,year,grad_rate_4yr,grad_rate_6yr,enroll_pt,enroll_ft,retention_ft,retention_pt
+130226,Quinnipiac University,2023,77,80,178,6070,87,0.0
+130226,Quinnipiac University,2021,65,69,313,5985,87,
+130226,Quinnipiac University,2019,71,75,302,6543,84,0.0
+130226,Quinnipiac University,2017,71,76,346,6959,86,17.0
+130226,Quinnipiac University,2015,72,76,279,6703,87,100.0
+130226,Quinnipiac University,2013,72,77,235,6307,85,100.0
+130493,Southern Connecticut State University,2023,29,52,1389,5392,76,40.0
+130493,Southern Connecticut State University,2021,29,52,1156,5644,72,23.0
+130493,Southern Connecticut State University,2019,20,48,1161,6801,73,33.0
+130493,Southern Connecticut State University,2017,23,52,1133,6814,78,23.0
+130493,Southern Connecticut State University,2015,18,49,1237,6869,75,18.0
+130493,Southern Connecticut State University,2013,15,44,1241,7016,75,50.0
+129941,University of New Haven,2023,52,66,317,4548,77,33.0
+129941,University of New Haven,2021,51,61,305,4718,76,0.0
+129941,University of New Haven,2019,52,60,287,4625,77,33.0
+129941,University of New Haven,2017,44,54,385,4831,79,40.0
+129941,University of New Haven,2015,44,55,391,4611,79,80.0
+129941,University of New Haven,2013,42,53,457,4407,76,75.0
+130794,Yale University,2023,88,97,13,6805,99,
+130794,Yale University,2021,88,97,4,6532,98,
+130794,Yale University,2019,86,97,4,6088,99,
+130794,Yale University,2017,88,97,3,5743,99,
+130794,Yale University,2015,90,98,23,5509,99,
+130794,Yale University,2013,89,97,6,5424,99,
