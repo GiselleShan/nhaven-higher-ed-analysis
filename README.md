@@ -1,3 +1,4 @@
+GitHub is used here primarily to showcase work samples, not ongoing project maintenance.
 # New Haven Higher Education Landscape — Enrollment, Retention & Outcomes Analysis
 
 ## Overview
